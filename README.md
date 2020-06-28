@@ -19,3 +19,5 @@ Explore tailored functionality provided by third party packages
 Learn more about Matplotlib through the many external learning resources
 
 Visit https://matplotlib.org/index.html to get a more detailed idea about this library.
+
+NOTE:You should use matplotlib for simple visualizations and small databases. I would recommend you to use SEABORN for much better visualizations and improved user readability. Seaborn contains many more functionalities when compared to matplotlib.
