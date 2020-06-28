@@ -1,4 +1,4 @@
-# visualization_matplotlib
+# matplotlib_visualization
 This repository will give you an idea about how  to carry out visualizations using matplotlib.
 
 Matplotlib: Visualization with Python
