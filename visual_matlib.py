@@ -104,7 +104,7 @@ a1.legend()#leave it blank to define the best position for legend,otherwise spec
 #a1.legend(loc=(0.1,0.1))#user defined position
 plt.show()
 
-#custom customiztion of the plot design
+#custom customization of the plot design
 abc=plt.figure()
 a1=abc.add_axes([0.1,0.1,0.8,0.8])
 a1.plot(x,x**3,label="x**3",color="pink",lw="3",ls="--",marker="o",markersize="10",markerfacecolor="green",markeredgewidth="1",markeredgecolor="black")
