@@ -1,5 +1,5 @@
 # visualization_matplotlib
-This repository will give you an idea about how to carry out visualizations using matplotlib.
+This repository will give you an idea about how  to carry out visualizations using matplotlib.
 
 Matplotlib: Visualization with Python
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
