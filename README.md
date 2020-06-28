@@ -6,14 +6,14 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 
 Matplotlib makes easy things easy and hard things possible.
 
-Create
+Create:
 Develop publication quality plots with just a few lines of code
 Use interactive figures that can zoom, pan, update...
 
-Customize
+Customize:
 Take full control of line styles, font properties, axes properties...
 Export and embed to a number of file formats and interactive environments
 
-Extend
+Extend:
 Explore tailored functionality provided by third party packages
 Learn more about Matplotlib through the many external learning resources
