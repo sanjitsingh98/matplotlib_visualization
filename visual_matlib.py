@@ -9,10 +9,10 @@ df.info()
 
 #histogram
 plt.hist(df['TotalPay'])
-plt.xlabel("Total Pay")
-plt.ylabel("Value")
-plt.title("Sample Histogram")
-plt.show()
+plt.xlabel("Total Pay")#label the x axis
+plt.ylabel("Value")#label the y axis
+plt.title("Sample Histogram")#title of the plot
+plt.show()#to display the graph
 
 #bar plot
 plt.bar(['A','B','C','D','E'],[40,30,65,55,90])
@@ -44,8 +44,8 @@ plt.title("X vs Cube function method")
 plt.show()
 
 #subplots
-plt.subplot(1,2,1)
-plt.plot(x,y,"r--")
+plt.subplot(1,2,1)# 1,2 means 1 row 2 columns and the third parameter is the index
+plt.plot(x,y,"r--")#r-- means color is red and the design is '--', you can change to color of your choice and the design to ':','-','-.'
 plt.subplot(1,2,2)
 plt.plot(x,y,"g")
 plt.show()
@@ -61,10 +61,10 @@ plt.show()
 
 #figure inside a figure
 fig = plt.figure()
-a=fig.add_axes([0.12,0.1,0.8,0.8])
-b=fig.add_axes([0.2,0.4,0.4,0.4])
-a.plot(x,y,"r")
-b.plot(y,x,"y")
+a=fig.add_axes([0.12,0.1,0.8,0.8])#define axes for main figure
+b=fig.add_axes([0.2,0.4,0.4,0.4])#define axes for small figure
+a.plot(x,y,"r")#color=red
+b.plot(y,x,"y")#color=yellow
 a.set_title("big one")
 b.set_title("small one")
 a.set_xlabel("big X")
