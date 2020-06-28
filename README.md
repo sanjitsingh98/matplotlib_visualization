@@ -17,3 +17,5 @@ Export and embed to a number of file formats and interactive environments
 Extend:
 Explore tailored functionality provided by third party packages
 Learn more about Matplotlib through the many external learning resources
+
+Visit https://matplotlib.org/index.html to get a more detailed idea about this library.
